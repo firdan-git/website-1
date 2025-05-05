@@ -95,7 +95,6 @@ section .title::after {
 }
 .navbar.sticky {
   padding: 15px 0;
-  background: crimson;
 }
 .navbar .max-width {
   display: flex;
@@ -117,7 +116,7 @@ section .title::after {
 }
 .navbar .menu li a {
   display: block;
-  color: crimson;
+  color: #000000;
   font-size: 18px;
   font-weight: 500;
   margin-left: 25px;
